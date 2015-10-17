@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         //ボタン
         let mybutton = Mybutton();
         mybutton.button();
+        //背景の色
+        self.view.backgroundColor = UIColor.blueColor();
     }
 
     override func didReceiveMemoryWarning() {

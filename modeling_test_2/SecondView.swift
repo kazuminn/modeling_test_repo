@@ -12,10 +12,9 @@ import UIKit
 class Secondview: UIViewController {
     
     override func viewDidLoad(){
-        
-        
-    
+        self.view.backgroundColor = UIColor.greenColor();
     }
-    
-    
 }
+    
+    
+
