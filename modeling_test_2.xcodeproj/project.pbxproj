@@ -15,6 +15,7 @@
 		8DC0154B1BD262A70098701C /* modeling_test_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC0154A1BD262A70098701C /* modeling_test_2Tests.swift */; };
 		8DC015561BD262A70098701C /* modeling_test_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC015551BD262A70098701C /* modeling_test_2UITests.swift */; };
 		8DC015641BD275250098701C /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC015631BD275250098701C /* Button.swift */; settings = {ASSET_TAGS = (); }; };
+		8DC015661BD2846B0098701C /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC015651BD2846B0098701C /* SecondView.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8DC015551BD262A70098701C /* modeling_test_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modeling_test_2UITests.swift; sourceTree = "<group>"; };
 		8DC015571BD262A70098701C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DC015631BD275250098701C /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
+		8DC015651BD2846B0098701C /* SecondView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8DC0153E1BD262A70098701C /* LaunchScreen.storyboard */,
 				8DC015411BD262A70098701C /* Info.plist */,
 				8DC015631BD275250098701C /* Button.swift */,
+				8DC015651BD2846B0098701C /* SecondView.swift */,
 			);
 			path = modeling_test_2;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				8DC015381BD262A70098701C /* ViewController.swift in Sources */,
 				8DC015641BD275250098701C /* Button.swift in Sources */,
+				8DC015661BD2846B0098701C /* SecondView.swift in Sources */,
 				8DC015361BD262A70098701C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
